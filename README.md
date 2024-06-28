@@ -12,7 +12,7 @@ Check out the video demonstration of the application:
 Here are some screenshots of the application in action:
 
 ### Home Page
-![Home Page](IMAGES/Customer Journey - Project workflow (1).jpg)
+![Home Page](path_to_home_page_image)
 
 ### Player Search
 ![Player Search](path_to_player_search_image)
@@ -55,10 +55,15 @@ The Player Scouting Recommendation System leverages the following technologies:
 5. **Report Generation**: Utilizing Google Generative AI to create detailed scouting reports.
 6. **Web Application**: Developing an interactive interface with Streamlit to present the data and insights.
 
-![Flowchart](IMAGES/Customer Journey - Project workflow (1).jpg)
+### Flowchart
+*Include your flowchart here.*
+
+![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/3f9f421c269aa69981f5951931157774bd9c6c3d/IMAGES/Customer%20Journey%20-%20Project%20workflow%20(1).jpg)
+
 ---
 
 ## 🔍 Key Features
+
 ### Player Scout
 - **Player Search**: 
   - Allows users to search for players using an auto-complete search box.
