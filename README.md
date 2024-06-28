@@ -55,7 +55,7 @@ The Player Scouting Recommendation System leverages the following technologies:
 5. **Report Generation**: Utilizing Google Generative AI to create detailed scouting reports.
 6. **Web Application**: Developing an interactive interface with Streamlit to present the data and insights.
 
-[![Flow Chart](IMAGES/Customer Journey - Project workflow (1).jpg)](IMAGES/Customer Journey - Project workflow (1).jpg)
+[![Flow Chart]([IMAGES/Customer Journey - Project workflow (1).jpg](https://github.com/omwadera/Football_Scout_AI/blob/main/IMAGES/Customer%20Journey%20-%20Project%20workflow%20(1).jpg))]([IMAGES/Customer Journey - Project workflow (1).jpg](https://github.com/omwadera/Football_Scout_AI/blob/main/IMAGES/Customer%20Journey%20-%20Project%20workflow%20(1).jpg))
 ---
 
 ## 🔍 Key Features
