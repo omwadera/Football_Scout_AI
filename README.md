@@ -55,10 +55,7 @@ The Player Scouting Recommendation System leverages the following technologies:
 5. **Report Generation**: Utilizing Google Generative AI to create detailed scouting reports.
 6. **Web Application**: Developing an interactive interface with Streamlit to present the data and insights.
 
-![Flowchart](path_to_flowchart_image)
-
-To create a flowchart, you can use tools like [draw.io](https://app.diagrams.net/), [Lucidchart](https://www.lucidchart.com/), or [Microsoft Visio](https://www.microsoft.com/en-us/microsoft-365/visio/flowchart-software).
-
+![Flowchart](IMAGES/Customer Journey - Project workflow (1).jpg)
 ---
 
 ## 🔍 Key Features
