@@ -12,7 +12,7 @@ Check out the video demonstration of the application:
 Here are some screenshots of the application in action:
 
 ### Home Page
-![Home Page](path_to_home_page_image)
+![Home Page](IMAGES/Customer Journey - Project workflow (1).jpg)
 
 ### Player Search
 ![Player Search](path_to_player_search_image)
