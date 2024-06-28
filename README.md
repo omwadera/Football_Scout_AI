@@ -9,16 +9,19 @@ Check out the video demonstration of the application:
 
 [![Demo Video](path_to_thumbnail_image)](path_to_video)
 
-Here are some screenshots of the application in action:
+---
 
-### Home Page
-![Home Page](path_to_home_page_image)
+## 🔍 Key Features
 
-### Player Search
-![Player Search](path_to_player_search_image)
+### 1. Scout Player
+Create AI-generated scouting reports for the current season. This feature provides detailed insights into player performance, strengths, weaknesses, and overall impact on the team.
 
-### Player Profile
-![Player Profile](path_to_player_profile_image)
+<img src="path_to_your_image/scout_player_feature.png" alt="Scout Player Feature" width="500">
+
+### 2. Player Scout Recommendations
+Get recommendations on which players can replace the current player based on various features like play style, league, skills, age, and more. The system identifies players with similar attributes and suggests potential replacements.
+
+<img src="path_to_your_image/player_scout_recommendations_feature.png" alt="Player Scout Recommendations Feature" width="500">
 
 ---
 
@@ -28,6 +31,7 @@ The data used in this project comes from various reliable sources, ensuring accu
 - `data/football-player-stats-2023-COMPLETE.csv`
 
 These datasets provide comprehensive statistics on football players, including performance metrics, historical data, and other relevant attributes.
+Other than that, data is webscraped from FBREF and Transfer Market
 
 ---
 
@@ -58,7 +62,8 @@ The Player Scouting Recommendation System leverages the following technologies:
 ### Flowchart
 *Include your flowchart here.*
 
-![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/3f9f421c269aa69981f5951931157774bd9c6c3d/IMAGES/Customer%20Journey%20-%20Project%20workflow%20(1).jpg)
+![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/c8ad147fee458e99376de4d0bfd6284ce7e3e696/IMAGES/Project%20flowchart.jpg)
+![](https://github.com/omwadera/Football_Scout_AI/blob/1b91c3c719c2797e78605b8344da8aba1d030fe4/IMAGES/data%20preprocessing.png)
 
 ---
 
@@ -88,7 +93,7 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ---
 
-## 📄 Documentation and Complete Architecture
+## 📄 How to get the Gemini pr 1.5 API key
 Detailed documentation and architectural diagrams can be found in the [docs](./docs) directory. This includes:
 - System architecture overview.
 - API documentation.
@@ -108,7 +113,6 @@ Detailed documentation and architectural diagrams can be found in the [docs](./d
 We would like to thank the following for their contributions and support:
 - **Data Providers**: For supplying the comprehensive datasets used in this project.
 - **Open Source Community**: For the libraries and tools that made this project possible.
-- **Team Members**: For their hard work and dedication in developing and refining the system.
 
 ---
 
