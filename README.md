@@ -72,12 +72,12 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ### Team Builder
 - **Similarity Analysis**:
-  <img src="IMAGES/Screenshot 2024-06-28 001725.png" alt="Player Scout" width="500">
+  - <img src="IMAGES/Screenshot 2024-06-28 001725.png" alt="Player Scout" width="500">
   - Uses cosine similarity to find and display similar players.
   - Helps scouts identify players with comparable skills and potential.
 
 - **Player Recomendations report using AI**:
-  <img src="IMAGES/Screenshot 2024-06-28 001650.png" alt="Player Scout" width="500">
+  - <img src="IMAGES/Screenshot 2024-06-28 001650.png" alt="Player Scout" width="500">
   -Helps Coach to find the perfect replacement for a player in the summer transfer window based on custom features.
 
 ### Team evaluator
