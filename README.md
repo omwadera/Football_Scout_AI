@@ -16,12 +16,12 @@ Check out the video demonstration of the application:
 ### 1. Scout Player
 Create AI-generated scouting reports for the current season. This feature provides detailed insights into player performance, strengths, weaknesses, and overall impact on the team.
 
-<img src="IMAGES/player scout gif.gif" alt="Scout Player Feature" width="500">
+<img src="IMAGES/player scout gif.gif" alt="Scout Player Feature" width="1080">
 
 ### 2. Team Builder
 Get recommendations on which players can replace the current player based on various features like play style, league, skills, age, and more. The system identifies players with similar attributes and suggests potential replacements.
 
-<img src="IMAGES/team builder gif.gif" alt="Player Scout Recommendations Feature" width="500">
+<img src="IMAGES/team builder gif.gif" alt="Player Scout Recommendations Feature" width="1080">
 
 ---
 
