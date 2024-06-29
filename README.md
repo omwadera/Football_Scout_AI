@@ -50,8 +50,8 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ### Flowchart
 
-![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/1b91c3c719c2797e78605b8344da8aba1d030fe4/IMAGES/data%20preprocessing.png)
-![](https://github.com/omwadera/Football_Scout_AI/blob/c8ad147fee458e99376de4d0bfd6284ce7e3e696/IMAGES/Project%20flowchart.jpg)
+<img src="IMAGES/data preprocessing.png" alt="Player Scout" width="800">
+<img src="IMAGES/Project flowchart.jpg" alt="Player Scout">
 
 ---
 
@@ -89,7 +89,7 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ---
 
-## 📄 How to get the Gemini pr 1.5 API key
+## 📄 How to get Gemini 1.5 Pro API key?
 Detailed documentation and architectural diagrams can be found in the [docs](https://ai.google.dev/gemini-api/docs/api-key). 
 Steps to get Gemini API key:
 1. Go to Gemini
@@ -116,8 +116,6 @@ We would like to thank the following for their contributions and support:
 - **Open Source Community**: For the libraries and tools that made this project possible.
 
 ---
-
-## Setup Instructions
 
 ### Prerequisites
 - Python 3.7 or higher
