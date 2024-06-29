@@ -1,16 +1,5 @@
 # ⚽🔍 Player Scouting Recommendation System
 
-## [Visit the Website](http://your_website_url)
-
----
-
-## Demo
-Check out the video demonstration of the application:
-
-[![Demo Video](path_to_thumbnail_image)](path_to_video)
-
----
-
 ## 🔍 Key Features
 
 ### 1. Scout Player
@@ -71,22 +60,25 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ### Player Scout
 - **Player Search**: 
-  - Allows users to search for players using an auto-complete search box.
   - Enhances user experience by providing real-time search suggestions.
 
 - **Player Profile**: 
   - Displays detailed player information including images, basic statistics, and metrics.
   - Provides a comprehensive view of a player's current form and historical performance.
 
-- **Similarity Analysis**: 
-  - Uses cosine similarity to find and display similar players.
-  - Helps scouts identify players with comparable skills and potential.
-
 - **Scouting Report**: 
   - Generates a detailed scouting report using Google Generative AI.
   - Offers deep insights into a player's abilities, strengths, and weaknesses.
 
 ### Team Builder
+- **Similarity Analysis**: 
+  - Uses cosine similarity to find and display similar players.
+  - Helps scouts identify players with comparable skills and potential.
+
+- **Player Recomendations report using AI:
+  -Helps Coach to find the perfect replacement for a player in the summer transfer window based on custom features.
+
+### Team evaluator
 - **Coming Soon**: 
   - Additional features for team building and analysis.
   - Will enable users to create and analyze custom teams based on specific criteria.
@@ -94,11 +86,16 @@ The Player Scouting Recommendation System leverages the following technologies:
 ---
 
 ## 📄 How to get the Gemini pr 1.5 API key
-Detailed documentation and architectural diagrams can be found in the [docs](./docs) directory. This includes:
-- System architecture overview.
-- API documentation.
-- Data flow diagrams.
-- User guides and tutorials.
+Detailed documentation and architectural diagrams can be found in the [docs](https://ai.google.dev/gemini-api/docs/api-key). 
+Steps to get Gemini API key:
+1. Go to Gemini
+2. Open the Account Settings page
+3. Open the API settings page
+4. Click on Create API key
+5. Choose the Scope
+6. Name the API keys
+7. Save API key and API Secret
+8. Set the Permissions
 
 ---
 
@@ -131,9 +128,3 @@ We would like to thank the following for their contributions and support:
 - Google Generative AI Library
 - dotenv
 
-### Installation
-
-#### Clone the Repository
-```bash
-git clone <repository_url>
-cd <repository_directory>
