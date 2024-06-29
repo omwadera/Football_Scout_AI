@@ -62,8 +62,8 @@ The Player Scouting Recommendation System leverages the following technologies:
 ### Flowchart
 *Include your flowchart here.*
 
-![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/c8ad147fee458e99376de4d0bfd6284ce7e3e696/IMAGES/Project%20flowchart.jpg)
-![](https://github.com/omwadera/Football_Scout_AI/blob/1b91c3c719c2797e78605b8344da8aba1d030fe4/IMAGES/data%20preprocessing.png)
+![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/1b91c3c719c2797e78605b8344da8aba1d030fe4/IMAGES/data%20preprocessing.png)
+![](https://github.com/omwadera/Football_Scout_AI/blob/c8ad147fee458e99376de4d0bfd6284ce7e3e696/IMAGES/Project%20flowchart.jpg)
 
 ---
 
