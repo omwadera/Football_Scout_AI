@@ -50,8 +50,8 @@ The Player Scouting Recommendation System leverages the following technologies:
 
 ### Flowchart
 
-<img src="IMAGES/data preprocessing.png" alt="Player Scout" width="800">
-<img src="IMAGES/Project flowchart.jpg" alt="Player Scout">
+<img src="IMAGES/data preprocessing.png" alt="Player Scout" width="500">
+<img src="IMAGES/Project flowchart.jpg" alt="Player Scout"width="1500">
 
 ---
 
