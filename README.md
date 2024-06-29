@@ -49,7 +49,6 @@ The Player Scouting Recommendation System leverages the following technologies:
 6. **Web Application**: Developing an interactive interface with Streamlit to present the data and insights.
 
 ### Flowchart
-*Include your flowchart here.*
 
 ![Flowchart](https://github.com/omwadera/Football_Scout_AI/blob/1b91c3c719c2797e78605b8344da8aba1d030fe4/IMAGES/data%20preprocessing.png)
 ![](https://github.com/omwadera/Football_Scout_AI/blob/c8ad147fee458e99376de4d0bfd6284ce7e3e696/IMAGES/Project%20flowchart.jpg)
@@ -59,7 +58,8 @@ The Player Scouting Recommendation System leverages the following technologies:
 ## 🔍 Key Features
 
 ### Player Scout
-- **Player Search**: 
+- **Player Search**:
+  
   - Enhances user experience by providing real-time search suggestions.
 
 - **Player Profile**: 
@@ -71,11 +71,13 @@ The Player Scouting Recommendation System leverages the following technologies:
   - Offers deep insights into a player's abilities, strengths, and weaknesses.
 
 ### Team Builder
-- **Similarity Analysis**: 
+- **Similarity Analysis**:
+  <img src="IMAGES/Screenshot 2024-06-28 001725.png" alt="Player Scout" width="500">
   - Uses cosine similarity to find and display similar players.
   - Helps scouts identify players with comparable skills and potential.
 
-- **Player Recomendations report using AI:
+- **Player Recomendations report using AI**:
+  <img src="IMAGES/Screenshot 2024-06-28 001650.png" alt="Player Scout" width="500">
   -Helps Coach to find the perfect replacement for a player in the summer transfer window based on custom features.
 
 ### Team evaluator
