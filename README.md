@@ -62,23 +62,23 @@ The Player Scouting Recommendation System leverages the following technologies:
   - Enhances user experience by providing real-time search suggestions.
 
 - **Player Profile**:
-  - <img src="IMAGES/player profile.png" alt="Player Profile">
+  - <img src="IMAGES/player profile.png" alt="Player Profile" width="800">
   - Displays detailed player information including images, basic statistics, and metrics.
   - Provides a comprehensive view of a player's current form and historical performance.
 
 - **Scouting Report**:
-  - <img src="IMAGES/scouting report.png" alt="Player Scout">
+  - <img src="IMAGES/scouting report.png" alt="Player Scout" width="800">
   - Generates a detailed scouting report using Google Generative AI.
   - Offers deep insights into a player's abilities, strengths, and weaknesses.
 
 ### Team Builder
 - **Similarity Analysis**:
-  - <img src="IMAGES/similarity function.png" alt="Player Scout" width="500">
+  - <img src="IMAGES/similarity function.png" alt="Player Scout" width="800">
   - Uses cosine similarity to find and display similar players.
   - Helps scouts identify players with comparable skills and potential.
 
 - **Player Recomendations report using AI**:
-  - <img src="IMAGES/Screenshot 2024-06-28 001650.png" alt="Player Scout" width="500">
+  - <img src="IMAGES/Screenshot 2024-06-28 001650.png" alt="Player Scout" width="800">
   - Helps Coach to find the perfect replacement for a player in the summer transfer window based on custom features.
 
 
